@@ -14,14 +14,14 @@ public class Config {
     public static final boolean ENABLE_ADMOB_INTERSTITIAL_ADS = true;
     public static final int ADMOB_INTERSTITIAL_ADS_INTERVAL = 3;
 
-    public static final boolean ENABLE_ADMOB_INTERSTITIAL_ADS_AFTER_SPLASH = false;
-    public static final boolean ENABLE_ADMOB_INTERSTITIAL_ADS_ON_PLAY_STREAMING = false;
+    public static final boolean ENABLE_ADMOB_INTERSTITIAL_ADS_AFTER_SPLASH =false;
+    public static final boolean ENABLE_ADMOB_INTERSTITIAL_ADS_ON_PLAY_STREAMING =true;
 
     //set true to enable tab layout or set false to disable tab layout
     public static final boolean ENABLE_TAB_LAYOUT = true;
 
     //set true to turn on grid view in the channel list
-    public static final boolean ENABLE_GRID_MODE = false;
+    public static final boolean ENABLE_GRID_MODE = true;
     public static final int GRID_SPAN_COUNT = 3;
 
     //if you use RTL Language e.g : Arabic Language or other, set true
