@@ -16,7 +16,7 @@
     <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
 
     <!-- youtube -->
-    <string name="youtube_api_key">AIzaSyC6ML892sHXPqGuz2BDRS2J8dUcFEldszo</string>
+    <string name="youtube_api_key">AIzaSyAMa7XOGIrmjGCJzLnasmeSioUNcW8qlmo</string>
     <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
 
     <!--navigation drawer menu name-->
