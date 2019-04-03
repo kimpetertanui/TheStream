@@ -6,6 +6,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
 
     <!--this is deprecated permission-->
     <!--but this permission is required to allow receive push notification on android below Lollipop-->
@@ -98,13 +99,13 @@
                 <action android:name="com.onesignal.NotificationExtender" />
             </intent-filter>
         </service>
-        <service android:name="MyTaskService"
-            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
-            </intent-filter>
-        </service>
+        <!--<service android:name="MyTaskService"-->
+            <!--android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"-->
+            <!--android:exported="true">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>-->
+            <!--</intent-filter>-->
+        <!--</service>-->
 
         <uses-library
             android:name="org.apache.http.legacy"

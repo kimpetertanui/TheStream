@@ -3,7 +3,7 @@ package com.app.livevideo;
 public class Config {
 
     //your admin panel url
-    public static final String ADMIN_PANEL_URL = "http://10.0.2.2/the_stream";
+    public static final String ADMIN_PANEL_URL = "https://thesream.000webhostapp.com/category.php";
 
     //your api key which obtained from admin panel
     public static final String API_KEY = "cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN";
