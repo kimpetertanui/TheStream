@@ -39,7 +39,7 @@ public class ActivityPrivacyPolicy extends AppCompatActivity {
     private AdsModel adsModel ;
     private MobiAdBanner mobiAdBanner ;
     private CompositeDisposable disposable = new CompositeDisposable();
-    private String adCategory = "1" ; //specify the ad category you want to show.
+    private String adCategory = "3" ; //specify the ad category you want to show.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
