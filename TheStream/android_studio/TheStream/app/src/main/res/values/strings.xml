@@ -11,9 +11,9 @@
 
     <!--AdMob Ads-->
     <string name="admob_publisher_id">pub-3940256099942544</string>
-    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_id">ca-app-pub-4536585142676162~2998619464</string>
+    <string name="admob_banner_unit_id">ca-app-pub-4536585142676162/5241639429</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-4536585142676162/8223025982</string>
 
     <!-- youtube -->
     <string name="youtube_api_key">AIzaSyAMa7XOGIrmjGCJzLnasmeSioUNcW8qlmo</string>
@@ -31,7 +31,7 @@
     <string name="drawer_close">Close navigation drawer</string>
 
     <!-- play store application link i.e more apps -->
-    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Mobitech</string>
     <string name="privacy_policy_url">https://www.solodroid.net/the-stream/privacy-policy/</string>
 
     <!--app about information-->
