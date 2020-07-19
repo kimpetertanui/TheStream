@@ -19,7 +19,7 @@ android {
     defaultConfig {
         applicationId "com.app.livetvstrean"
 
-        manifestPlaceholders = [onesignal_app_id: "04f0747f-8980-43d1-aebe-40e452d07ae7",
+        manifestPlaceholders = [onesignal_app_id: "8adae3fb-ea5d-4034-9436-c039e0b56567",
                                 // Project number pulled from dashboard, local value is ignored.
                                 onesignal_google_project_number: "REMOTE"]
 

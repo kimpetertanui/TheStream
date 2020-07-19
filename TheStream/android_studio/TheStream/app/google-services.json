@@ -1,39 +1,37 @@
 {
   "project_info": {
-    "project_number": "1050226565000",
-    "firebase_url": "https://livevideos-ed785.firebaseio.com",
-    "project_id": "livevideos-ed785",
-    "storage_bucket": "livevideos-ed785.appspot.com"
+    "project_number": "90555885215",
+    "firebase_url": "https://nipashe-sasa.firebaseio.com",
+    "project_id": "nipashe-sasa",
+    "storage_bucket": "nipashe-sasa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1050226565000:android:6901664a41bf01e8",
+        "mobilesdk_app_id": "1:90555885215:android:c867eebf9eba87635c24aa",
         "android_client_info": {
-          "package_name": "com.app.livevideo"
+          "package_name": "com.app.livetvstrean"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1050226565000-66ok3j0f00jrscrvr9n7n4t1avrtgf8a.apps.googleusercontent.com",
+          "client_id": "90555885215-bp0hj19u5rg9nk43lmblv391klgu63q1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCzAQ6MXfZVFeH-lORnXfN6shZShW0h898"
+          "current_key": "AIzaSyCLFWIL93tB8Bi3fzR5xNl39KxIr_ezcXs"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90555885215-bp0hj19u5rg9nk43lmblv391klgu63q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

@@ -6,7 +6,7 @@ public class Config {
     public static final String ADMIN_PANEL_URL = "http://elacomms.com/kimeli/the_stream/";
 
     //your api key which obtained from admin panel
-    public static final String API_KEY = "cda11uT8cBLzm6a1YvsiUWOEgrFowk95K2DM3tHAPRCX4ypGjN";
+    public static final String API_KEY = "cda113t8eyEKP5F4XWCaQvjnfrJiN1o6UsgdYA79TkmBSOh2wu";
 
     //Ads Configuration
     //set true to enable or set false to disable
@@ -21,14 +21,14 @@ public class Config {
     public static final boolean ENABLE_TAB_LAYOUT = true;
 
     //set true to turn on grid view in the channel list
-    public static final boolean ENABLE_GRID_MODE = true;
+    public static final boolean ENABLE_GRID_MODE = false;
     public static final int GRID_SPAN_COUNT = 3;
 
     //if you use RTL Language e.g : Arabic Language or other, set true
     public static final boolean ENABLE_RTL_MODE = false;
 
     //load more for next channel list
-    public static final int LOAD_MORE = 15;
+    public static final int LOAD_MORE = 5;
 
     //splash screen duration in millisecond
     public static final int SPLASH_TIME = 3000;
