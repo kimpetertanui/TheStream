@@ -1,9 +1,9 @@
 package com.app.livevideo.utils;
 
 import android.graphics.Rect;
-import android.support.v4.text.TextUtilsCompat;
-import android.support.v4.view.ViewCompat;
-import android.support.v7.widget.RecyclerView;
+import androidx.core.text.TextUtilsCompat;
+import androidx.core.view.ViewCompat;
+import androidx.recyclerview.widget.RecyclerView;
 import android.view.View;
 
 import java.util.Locale;
