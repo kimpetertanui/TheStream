@@ -17,7 +17,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.app.livevideo"
+        applicationId "com.app.livetvstrean"
 
         manifestPlaceholders = [onesignal_app_id: "04f0747f-8980-43d1-aebe-40e452d07ae7",
                                 // Project number pulled from dashboard, local value is ignored.
