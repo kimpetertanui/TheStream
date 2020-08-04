@@ -21,7 +21,7 @@ public class Config {
     public static final boolean ENABLE_TAB_LAYOUT = true;
 
     //set true to turn on grid view in the channel list
-    public static final boolean ENABLE_GRID_MODE = false;
+    public static final boolean ENABLE_GRID_MODE = true;
     public static final int GRID_SPAN_COUNT = 3;
 
     //if you use RTL Language e.g : Arabic Language or other, set true

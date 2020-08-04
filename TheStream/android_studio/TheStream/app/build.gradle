@@ -21,7 +21,7 @@ android {
 
         manifestPlaceholders = [onesignal_app_id: "8adae3fb-ea5d-4034-9436-c039e0b56567",
                                 // Project number pulled from dashboard, local value is ignored.
-                                onesignal_google_project_number: "REMOTE"]
+                                onesignal_google_project_number: "90555885215"]
 
         minSdkVersion 16
         targetSdkVersion 30
