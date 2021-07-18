@@ -2,8 +2,8 @@
 <resources>
 
     <!--app main color-->
-    <color name="colorPrimary">#ff0006</color>
-    <color name="colorPrimaryDark">#ff0006</color>
+    <color name="colorPrimary">#141f38</color>
+    <color name="colorPrimaryDark">#141f38</color>
     <color name="colorAccent">#CDDC39</color>
 
     <!--swipe down refresh animation color-->

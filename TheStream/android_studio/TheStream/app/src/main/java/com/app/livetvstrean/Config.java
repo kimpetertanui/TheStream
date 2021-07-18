@@ -3,7 +3,7 @@ package com.app.livetvstrean;
 public class Config {
 
     //your admin panel url
-    public static final String ADMIN_PANEL_URL = "http://elacomms.com/kimeli/the_stream/";
+    public static final String ADMIN_PANEL_URL = "http://xtream.healthylife.rehab";
 
     //your api key which obtained from admin panel
     public static final String API_KEY = "cda113t8eyEKP5F4XWCaQvjnfrJiN1o6UsgdYA79TkmBSOh2wu";
