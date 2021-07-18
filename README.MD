@@ -1,0 +1,3 @@
+The Stream is a mobile online TV & Video Streaming App system which run under Android platform that used for watch many online TV broadcasts & video streaming from your Android devices.
+You can manage unlimited TV channel and categories which support many formats, this application created by Android for client side and then PHP MySQL for server side.
+Run under Android platform which is the most popular operating system in the world, using this application you can save your money and time in creating application for your own mobile online TV & Video Streaming App.
